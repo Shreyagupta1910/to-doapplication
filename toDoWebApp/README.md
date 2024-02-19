@@ -9,8 +9,7 @@ The Spring Boot Todo Application is a web-based task management system built usi
 - Bootstrap
 - Spring Security
 - Hibernate
-- H2 Database
-- HTML
+- SQL Database
 
 ## Features
 - Comprehensive task management interface.
@@ -19,14 +18,14 @@ The Spring Boot Todo Application is a web-based task management system built usi
 - Integration of JSTL for dynamic JSP rendering.
 - Stylish user interface using Bootstrap.
 - Hibernate for data persistence and management.
-- H2 Database for efficient data storage.
-- HTML forms for user interaction and data submission.
+- MY SQL Database for efficient data storage.
+
   
 ## Authorization information:
 Username: user  
 Password: user
 
 ##
-![1](https://user-images.githubusercontent.com/57569453/263540570-f58aebf0-6bc2-4b75-8fe4-563d72d63481.png)
+![1]
 
 <sub>**Made by Nazar Kuziv 27.08.2023**</sub>	
